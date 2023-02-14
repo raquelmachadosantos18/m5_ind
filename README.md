@@ -1,1 +1,21 @@
-# m5_ind
+PROJETO INDIVIDUAL
+Módulo 5 – Facilitando o dia a dia
+
+Nesse app usar o Node para montar um código que vai receber uma lista de propriedades de CSS (ex: background-color, font-size, text-align) e vai devolver essa lista ordenada de A-Z. Ordenar o CSS ajuda a encontrar mais rápido a propriedade que precisamos alterar.
+
+➔ O código deve rodar em um laço que vai receber propriedades até a pessoa digitar a palavra “sair”, quando isso acontecer vai ser impresso no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
+
+\ Para iniciar o aplicativo:
+
+1 - Abrir o terminal no Visual Studio Code;
+
+2 - Digitar "npm ini" dar enter ate aparecer o link do local da página;
+<img src="/img/npm_ini.jpeg"/>
+
+3 - Ainda no terminal digite o comando "node" + mais o nome do arquivo "app.js = "node app.js";
+<img src="/img/node_app.jpeg"/>
+
+4 - Escrever as propriedades do CSS;
+<img src="/img/propriedades_sair.jpeg"/>
+
+5 - Ao digitar "sair" deverá aparecer os resultados.
